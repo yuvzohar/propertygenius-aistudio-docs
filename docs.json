@@ -26,6 +26,13 @@
         "group": "Getting Started",
         "pages": [
           "index",
+          "quickstart"
+        ]
+      },
+      {
+        "group": "Getting Started",
+        "pages": [
+          "index",
           "quickstart",
           "features"
         ]
@@ -46,7 +53,7 @@
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://app.mintlify.com"
+      "href": "https://property-genius.app/"
     }
   },
   "contextual": {
