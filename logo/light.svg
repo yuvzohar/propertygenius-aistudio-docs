@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="100%" height="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&amp;display=swap');
+      .logo-text {
+        font-family: 'Poppins', system-ui, -apple-system, sans-serif;
+        font-size: 85px;
+        font-weight: 500;
+        letter-spacing: -1.5px;
+      }
+    </style>
+  </defs>
+
+  <!-- Logo Icon Group -->
+  <g transform="translate(40, 30)">
+    <!-- Green Rounded Square Background -->
+    <rect width="100" height="100" rx="22" fill="#2DD36F" />
+
+    <!-- White House Silhouette -->
+    <path d="M 22 85 V 50 L 50 25 L 66 39.3 V 22 H 74 V 46.4 L 78 50 V 85 Z" fill="#ffffff" />
+
+    <!-- Green Bar Chart -->
+    <rect x="40" y="70" width="4" height="8" fill="#2DD36F" />
+    <rect x="48" y="62" width="4" height="16" fill="#2DD36F" />
+    <rect x="56" y="54" width="4" height="24" fill="#2DD36F" />
+
+    <!-- Trend Arrow -->
+    <path d="M 46 60 L 63 43 M 56 43 H 63 V 50" stroke="#2DD36F" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <!-- Clock / Detail Top Left -->
+    <circle cx="35" cy="40" r="5" fill="#2DD36F" />
+    <path d="M 35 40 L 35 37 M 35 40 L 37 42" stroke="#ffffff" stroke-width="1" stroke-linecap="round"/>
+
+    <!-- Circle Detail on Top Right Chimney -->
+    <circle cx="70" cy="28" r="2.5" fill="#2DD36F" />
+  </g>
+
+  <!-- Logo Text -->
+  <text x="160" y="108" class="logo-text">
+    <tspan fill="#333333">property</tspan><tspan fill="#2DD36F">genius</tspan>
+  </text>
+</svg>
