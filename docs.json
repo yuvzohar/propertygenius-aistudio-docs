@@ -33,8 +33,33 @@
         "group": "Getting Started",
         "pages": [
           "index",
-          "quickstart",
-          "features"
+          "quickstart"
+        ]
+      },
+      {
+        "group": "Features",
+        "pages": [
+          "property-management",
+          "statistics",
+          "contacts",
+          {
+            "group": "Tools & AI",
+            "pages": []
+          },
+          "design-tips",
+          {
+            "group": "Settings",
+            "pages": [
+              "general",
+              "account-settings",
+              "suppliers-and-services",
+              "integrations",
+              "notifications",
+              "advanced",
+              "language",
+              "support"
+            ]
+          }
         ]
       }
     ]
