@@ -37,7 +37,9 @@
           "contacts",
           {
             "group": "Tools & AI",
-            "pages": []
+            "pages": [
+              "ai-assistant-bot"
+            ]
           },
           "design-tips",
           {
