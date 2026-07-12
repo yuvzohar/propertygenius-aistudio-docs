@@ -30,13 +30,6 @@
         ]
       },
       {
-        "group": "Getting Started",
-        "pages": [
-          "index",
-          "quickstart"
-        ]
-      },
-      {
         "group": "Features",
         "pages": [
           "property-management",
@@ -60,6 +53,14 @@
               "support"
             ]
           }
+        ]
+      },
+      {
+        "group": "Getting Started",
+        "hidden": true,
+        "pages": [
+          "index",
+          "quickstart"
         ]
       }
     ]
