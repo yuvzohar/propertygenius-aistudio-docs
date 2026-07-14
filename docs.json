@@ -38,7 +38,8 @@
           {
             "group": "Tools & AI",
             "pages": [
-              "ai-assistant-bot"
+              "ai-assistant-bot",
+              "reminders"
             ]
           },
           "design-tips",
