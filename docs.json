@@ -115,5 +115,10 @@
       "investors": "investors",
       "house_management": "house management"
     }
+  },
+  "integrations": {
+    "ga4": {
+      "measurementId": "G-7TE3856RJD"
+    }
   }
 }
