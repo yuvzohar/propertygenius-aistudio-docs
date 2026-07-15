@@ -104,5 +104,11 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "seo": {
+    "metatags": {
+      "property": "property",
+      "property_manager": "property manager"
+    }
   }
 }
