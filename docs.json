@@ -108,7 +108,12 @@
   "seo": {
     "metatags": {
       "property": "property",
-      "property_manager": "property manager"
+      "property_manager": "property manager",
+      "assets": "assets",
+      "invetment": "invetment",
+      "landlord": "landlord",
+      "investors": "investors",
+      "house_management": "house management"
     }
   }
 }
