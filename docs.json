@@ -41,6 +41,13 @@
             "pages": [
               "introduction",
               "ai-portfolio-assistant",
+              "roi-prediction",
+              "mortgage-estimator",
+              "yield-calculator",
+              "smart-docs-ai",
+              "profit-and-loss-report",
+              "services-search",
+              "tenants-radar",
               "ai-assistant-bot",
               "reminders"
             ]
