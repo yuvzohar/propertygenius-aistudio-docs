@@ -53,7 +53,7 @@
             "hidden": true
           },
           {
-            "group": "General",
+            "group": "_General",
             "pages": [
               "introduction",
               "ai-portfolio-assistant",
