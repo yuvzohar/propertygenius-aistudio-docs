@@ -65,7 +65,8 @@
               "tenants-radar",
               "ai-assistant-bot",
               "reminders"
-            ]
+            ],
+            "hidden": true
           }
         ]
       },
