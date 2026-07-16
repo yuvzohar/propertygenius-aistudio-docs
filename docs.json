@@ -37,6 +37,20 @@
           "statistics",
           "contacts",
           "tools-and-ai",
+          "design-tips",
+          "general-features",
+          {
+            "group": "Settings",
+            "pages": [
+              "general",
+              "account-settings",
+              "suppliers-and-services",
+              "integrations",
+              "advanced",
+              "language",
+              "support"
+            ]
+          },
           {
             "group": "General",
             "pages": [
@@ -51,20 +65,6 @@
               "tenants-radar",
               "ai-assistant-bot",
               "reminders"
-            ]
-          },
-          "design-tips",
-          "general-features",
-          {
-            "group": "Settings",
-            "pages": [
-              "general",
-              "account-settings",
-              "suppliers-and-services",
-              "integrations",
-              "advanced",
-              "language",
-              "support"
             ]
           }
         ]
