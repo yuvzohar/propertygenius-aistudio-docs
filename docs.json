@@ -38,7 +38,7 @@
           "contacts",
           "tools-and-ai",
           {
-            "group": "Tools & AI",
+            "group": "General",
             "pages": [
               "introduction",
               "ai-portfolio-assistant",
@@ -54,6 +54,7 @@
             ]
           },
           "design-tips",
+          "general-features",
           {
             "group": "Settings",
             "pages": [
