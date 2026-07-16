@@ -39,6 +39,8 @@
           {
             "group": "Tools & AI",
             "pages": [
+              "introduction",
+              "ai-portfolio-assistant",
               "ai-assistant-bot",
               "reminders"
             ]
@@ -51,7 +53,6 @@
               "account-settings",
               "suppliers-and-services",
               "integrations",
-              "notifications",
               "advanced",
               "language",
               "support"
